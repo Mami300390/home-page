@@ -1,0 +1,146 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(../image/georgie-cobbs-bKjHgo_Lbpo-unsplash.jpg);
+    background-size:cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+nav{
+    background-color:#8e5572;
+    padding-left: 180px;
+   
+}
+ nav a{
+    display: inline-block;
+    text-decoration: none;
+    font-size:20px;
+    font-weight: bold;
+    color: white;
+    padding: 15px;
+    
+}
+nav a:hover{
+    background-color:#c2b97f;
+}
+/*.home{
+    background-color: navy;
+}*/
+.div{
+    text-align: center;
+    margin-bottom: 65px;
+    
+}
+.detalis{
+    
+}
+.detalis h1{
+    padding-top: 150px;
+    font-size: 65px;
+    color: #C2B97F;
+}
+.detalis h2{
+    padding-top: 55px;
+    font-size: 40px;
+    color: #C2B97F;
+    text-align: center;
+}
+.detalis a{
+    padding: 10px;
+    background-color: #8e5572;
+    color:azure;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
+.our_pricing{
+    margin: 10px;
+    text-align: center;
+    
+}
+.basic{
+/*    display: inline-block;
+    background-color:cadetblue;
+    width: 250px;
+    height: 300px; */
+  color: white; font-size: 18px;
+  background-color: #c2b97f;
+  width: 250px;
+  height: 350px;
+  display: inline-block;
+  font-family: Sylfaen;
+  
+}
+.standard{
+    color: white; font-size: 18px;  
+    display: inline-block;
+    background-color:#bcaa99;
+    width: 250px;
+    height: 350px;
+    font-family: Sylfaen;  
+}
+.unlimited{
+    color: white; font-size: 18px; 
+    display: inline-block;
+    background-color: #88665d;
+    width: 250px;
+    height: 350px;
+    font-family: Sylfaen;
+}
+.basic p{
+    margin-top: 30px;
+}
+.basic b{
+    font-size: 25px
+}
+.basic a{
+    padding: 10px;
+    background-color: transparent;
+    color:azure;
+    
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 40px
+}
+.basic a:hover{
+    background-color: wheat;
+}
+.standard p{
+    margin-top: 30px;
+}
+.standard b{
+    font-size: 25px
+}
+.standard a{
+    padding: 10px;
+    background-color: transparent;
+    color:azure;
+    
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 40px
+}
+.standard a:hover{
+    background-color: wheat;
+}
+.unlimited p{
+    margin-top: 30px;
+}
+.unlimited b{
+    font-size: 25px
+}
+.unlimited a{
+    padding: 10px;
+    background-color: transparent;
+    color:azure;
+    
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 40px
+}
+.unlimited a:hover{
+    background-color: wheat;
+}
