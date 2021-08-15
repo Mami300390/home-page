@@ -1,0 +1,90 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    width: 100%; height: 500px;
+    background: linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0.5)),url(../image/scott-webb-06qZZZNfzD8-unsplash.jpg);
+    background-size:cover;
+    background-position: bottom;
+    
+}
+nav{
+    background-color:#8e5572;
+    padding-left: 180px;
+   
+}
+ nav a{
+    display: inline-block;
+    text-decoration: none;
+    font-size:20px; font-weight: bold; color: white;
+    padding: 15px;
+}
+nav a:hover{
+    background-color:#c2b97f;
+}
+.header img{
+    padding-left: 125px;
+    padding-top: 160px;
+}
+.detalis{
+    width:100%; height: 500px;
+    background-color: #BBE1FA;
+    
+}
+.information{
+    padding-top:  150px;
+    padding-left: 75px;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.information h2{
+    color: #C2B97F;
+    font-size: 40px;
+    font-style: oblique;
+}
+.information p{
+    margin-right: 30px;
+    color: #C2B97F;
+    font-size:30px;
+    font-style: oblique;
+    text-align: justify;
+}
+.photo{
+    text-align: right;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
